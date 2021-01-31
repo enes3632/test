@@ -1,4 +1,4 @@
-# COMP9021 20T3 - Rachid Hamadi
+# COMP9021 20T3 - Rachid Hamadi - Enes Şahin 2020
 # Assignment 2 *** Due Sunday Week 10 @ 10.00pm
 
 # DO *NOT* WRITE YOUR NAME TO MAINTAIN ANONYMITY FOR PLAGIARISM DETECTION
